@@ -1,6 +1,6 @@
 //factorial of a given number
 import java.util.*;
-class f
+class Factorial
 {
     public static void main(String args[])
     {
