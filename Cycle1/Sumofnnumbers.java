@@ -1,6 +1,6 @@
 //find sum of first n natural numbers
 import java.util.*;
-class b
+class Sum1
 {
     public static void main(String args[])
     {
