@@ -1,6 +1,6 @@
 //given number is prime or not
 import java.util.*;
-class e 
+class Prime
 {
     public static void main(String args[])
     {
