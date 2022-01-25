@@ -1,6 +1,6 @@
 //find the sum of two numbers
 import java.util.*;
-class a
+class Sum
 {
     public static void main(String args[])
     {
