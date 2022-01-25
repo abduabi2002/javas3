@@ -1,6 +1,7 @@
 //check wheather given number is odd or even
 import java.util.*;
-class d {
+class Oddoreven 
+  {
     public static void main(String args[])
     {
         Scanner obj=new Scanner(System.in);
