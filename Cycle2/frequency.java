@@ -1,6 +1,6 @@
 //to find the frequency of a character in a string
 import java.util.*;
-class freq
+class frequency
 {
 	public static void main(String args[])
 	{   int freq=0;
